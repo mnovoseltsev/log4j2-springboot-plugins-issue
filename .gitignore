@@ -1,0 +1,9 @@
+# Common
+target
+*.war
+*.jar
+
+# IntelliJ
+.idea
+.DS_Store
+*.iml
